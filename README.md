@@ -1,5 +1,5 @@
 ### Hi there👋, I'm a fourth year Computer Science Student at PES Univeristy.
-- 🔭 I’m currently working on **a Deep Learning project with focus on Image Processing and NLP .**
+- 🔭 I’m currently working on **a Deep Learning project with focus on NLP .**
 - 🌱 I’m currently learning **Machine Learning and Data Science.**
 
 
