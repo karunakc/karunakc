@@ -1,1 +1,1 @@
-### Hi there👋, I'm a fourth year Computer Science Student at PES Univeristy.
+### Hi there👋, I'm a final year Computer Science Student at PES Univeristy.
